@@ -21,4 +21,5 @@ public class WebConfig implements WebMvcConfigurer {
 				getClass().getResource("/env/ehcache.xml").toURI(),
 				getClass().getClassLoader()));
 	}
+	
 }
