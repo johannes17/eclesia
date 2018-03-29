@@ -22,9 +22,4 @@ public class WebConfig implements WebMvcConfigurer {
 				getClass().getClassLoader()));
 	}
 	
-	//isso e muito importante!
-	private void tsete() {
-		//aqui vai o codigo
-	}
-	
 }
