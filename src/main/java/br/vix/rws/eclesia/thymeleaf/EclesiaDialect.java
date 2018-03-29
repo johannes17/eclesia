@@ -18,7 +18,7 @@ import br.vix.rws.eclesia.thymeleaf.processor.PaginationElementTagProcessor;
 public class EclesiaDialect extends AbstractProcessorDialect {
 
 	public EclesiaDialect() {
-		super("AlgaWorks Brewer", "brewer", StandardDialect.PROCESSOR_PRECEDENCE);
+		super("RW Sistemas", "brewer", StandardDialect.PROCESSOR_PRECEDENCE);
 	}
 	
 	@Override
